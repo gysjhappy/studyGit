@@ -1,2 +1,4 @@
 this is a empty file.
 this is used to study using Git.
+
+this is a test message,for GitGUI.
